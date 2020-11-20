@@ -1,0 +1,1 @@
+i686-w64-mingw32-gcc -o bin/program.exe -g src/main.c -lmingw32 -lsdl2main -lsdl2
